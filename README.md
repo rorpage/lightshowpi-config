@@ -15,7 +15,7 @@ sudo apt-get upgrade
 ### Install git (if you don't already have it)
 ```bash
 sudo apt-get install git-core
-``
+```
 
 ### Clone the repository to /home/pi/lightshowpi
 ```bash
